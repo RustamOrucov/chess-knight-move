@@ -1,0 +1,4 @@
+Locale = en-US
+CommCheck64 = 1047781
+UpdateCheckInterval = 86400
+LastUpdateCheck = 13338366395
